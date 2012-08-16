@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<dirty-memoize>, ["~> 0.0"])
       s.add_runtime_dependency(%q<extendmatrix>, ["~> 0.3.1"])
       s.add_runtime_dependency(%q<statsample-bivariate-extension>, ["> 0"])
-      s.add_runtime_dependency(%q<rserve-client>, ["~> 0.3.5"])
+      s.add_runtime_dependency(%q<rserve-client>, ["~> 0.3.0"])
       s.add_runtime_dependency(%q<rubyvis>, ["~> 0.5.0"])
       s.add_runtime_dependency(%q<distribution>, ["~> 0.3"])
       s.add_development_dependency(%q<hoe>, ["~> 0"])
